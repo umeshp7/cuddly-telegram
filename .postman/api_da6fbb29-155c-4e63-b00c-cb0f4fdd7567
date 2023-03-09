@@ -10,7 +10,8 @@ id = da6fbb29-155c-4e63-b00c-cb0f4fdd7567
 [config.relations.collections]
 rootDirectory = postman/collections
 files[] = {"id":"3423-75389023-645d-4532-b47c-7731d985e5ca","path":"CHeck new.json","metaData":{"generateCollectionPreferences":"{\"requestNameSource\":\"Fallback\",\"indentCharacter\":\"Space\",\"parametersResolution\":\"Schema\",\"folderStrategy\":\"Paths\",\"includeAuthInfoInExample\":true,\"keepImplicitHeaders\":false,\"includeDeprecated\":true,\"requestParametersResolution\":\"Schema\",\"updateCollectionSync\":true,\"exampleParametersResolution\":\"Schema\"}"}}
-files[] = {"id":"3423-3f837c36-be94-4cec-856d-9d2f7a9eb3b5","path":"Generated.json","metaData":{"generateCollectionPreferences":"{\"requestNameSource\":\"Fallback\",\"indentCharacter\":\"Space\",\"parametersResolution\":\"Schema\",\"folderStrategy\":\"Paths\",\"includeAuthInfoInExample\":true,\"keepImplicitHeaders\":false,\"includeDeprecated\":true,\"requestParametersResolution\":\"Schema\",\"updateCollectionSync\":true,\"exampleParametersResolution\":\"Schema\"}"}}
+files[] = {"id":"3423-3f837c36-be94-4cec-856d-9d2f7a9eb3b5","path":"Generated.json","metaData":{"generateCollectionPreferences":"{\"requestNameSource\":\"Fallback\",\"indentCharacter\":\"Space\",\"parametersResolution\":\"Schema\",\"folderStrategy\":\"Paths\",\"includeAuthInfoInExample\":true,\"keepImplicitHeaders\":false,\"includeDeprecated\":true,\"requestParametersResolution\":\"Schema\",\"updateCollectionSync\":false,\"exampleParametersResolution\":\"Schema\"}"}}
+files[] = {"id":"3423-1dc1d2c4-2372-4e20-8caa-d09b80f2bac3","path":"New Collection(1).json","metaData":{}}
 files[] = {"id":"3423-b3197f77-68b1-4d2f-9636-50d5419d824e","path":"New Collection.json","metaData":{"generateCollectionPreferences":"{\"updateCollectionSync\":true}"}}
 
 [config.relations.collections.metaData]
